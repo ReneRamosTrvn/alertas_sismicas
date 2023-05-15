@@ -1,4 +1,4 @@
-idCountry,code,year,gdp(current US$)
+idcountry,code,year,gdp(current us$)
 2,JPN,1960,44307342950.4
 3,MEX,1960,13040000000.0
 1,USA,1960,543300000000.0
@@ -185,3 +185,6 @@ idCountry,code,year,gdp(current US$)
 2,JPN,2021,4940877780755.326
 3,MEX,2021,1272839334119.2952
 1,USA,2021,23315080560000.0
+2,JPN,2022,
+3,MEX,2022,
+1,USA,2022,

@@ -1,0 +1,461 @@
+ubicacion,id_ubicacion
+Alaska,1
+Arizona,2
+California,3
+Colorado,4
+Hawaii,5
+Idaho,6
+Montana,7
+Nevada,8
+New Mexico,9
+Oregon,10
+Texas,11
+Utah,12
+Washington State,13
+Wyoming,14
+Japan,15
+Mexico,16
+ GRO,17
+ CHIS,18
+ SON,19
+ JAL,20
+ OAX,21
+ MICH,22
+ VER,23
+ BC,24
+ BCS,25
+ COL,26
+ TAB,27
+ SIN,28
+ QR,29
+ CHIH,30
+ NAY,31
+ HGO,32
+ PUE,33
+ YUC,34
+ MEX,35
+ COAH,36
+ NL,37
+ SLP,38
+ GTO,39
+ TAMS,40
+ ZAC,41
+ QRO,42
+ CAMP,43
+ TLAX,44
+ DGO,45
+ CDMX,46
+ MOR,47
+ GRO ,48
+ MICH ,49
+ CHIS ,50
+ COL ,51
+ OAX ,52
+ BCS ,53
+ VER ,54
+ SLP ,55
+ NAY ,56
+ TAB ,57
+ BC ,58
+ JAL ,59
+ SIN ,60
+ SON ,61
+ QR ,62
+ PUE ,63
+ DGO ,64
+ COAH ,65
+ Alabama,66
+ Aleutian Islands,67
+ Alaska,68
+,69
+ Arizona,70
+ Arkansas,71
+ California,72
+ Mexico,73
+ California Earthquake,74
+ Colombia,75
+ Ecuador,76
+ Colorado,77
+ Georgia,78
+ Hawaii,79
+ Idaho,80
+ Illinois,81
+ Indiana,82
+ Kansas,83
+ Kentucky,84
+ Louisiana,85
+ Maine,86
+ Maryland,87
+ Massachusetts,88
+ Michigan,89
+ Minnesota,90
+ Missouri,91
+ Montana,92
+ Nebraska,93
+ Nevada,94
+ New Hampshire,95
+ New Mexico,96
+ New York,97
+ North Carolina,98
+ Ohio,99
+ Oklahoma,100
+ Oregon,101
+ Pennsylvania,102
+ South Carolina,103
+ South Dakota,104
+ Tennessee,105
+ Texas,106
+ Utah,107
+ South Africa,108
+ Virginia,109
+ Washington,110
+ New Washington,111
+ Wyoming,112
+"Mexico City, Michoacan",113
+"Michoacan, Colima, Jalisco",114
+Oaxaca,115
+Guerrero,116
+Chiapas; Guatemala (San Marcos),117
+"Mexico City, Morelos, Puebla",118
+"Oaxaca, Chiapas, Tabasco; Guatemala",119
+Cocotitlan,120
+San Marcos,121
+Tecpan,122
+Guerrero; Mexico City,123
+"San Marcos, Acapulco",124
+"Guerrero, Oaxaca",125
+San Andres Huaxpaltepec,126
+Baja California,127
+Mexicali,128
+"Guerrero, Atoyac",129
+Gulf Of Mexico,130
+"Guerrero, Mexico City",131
+"Villa De Alvarez, Colima, Tecoman, Jalisco",132
+Acapulco,133
+"Mexicali, Baja California",134
+"Veracruz (San Andres Tuxtla, Tuxtepec)",135
+Guerrero (Coahuayutla; Michoacan: Cuitzeo),136
+"Puebla, Veracruz, Oaxaca, Morelos, Guerrero",137
+"Oaxaca, San Agustin, San Francisco",138
+"Michoacan, Arteaga",139
+Off Coast Of Guerrero,140
+"Jalisco, Manzanillo, San Patricio Melaque",141
+"Guerrero, Oaxaca, Puebla, Mexico City",142
+"Mexico City, Acapulco",143
+Sw Coast (Mexico City),144
+Michoacan (Mexico City),145
+Oaxaca (Salina Cruz),146
+"Guererro, Orziba, Oaxaca, Guadalupe",147
+Chiapas,148
+Michoacan (Lazaro Cardenas),149
+"S, Huajapan De Leon, Oaxaca",150
+Nw,151
+Mexico City,152
+"Veracruz, Mexico City",153
+"S, Farias, Tecoman",154
+South Chiapas,155
+"Oaxaca, Guerrero",156
+"Me\Xico City, Oaxaca",157
+S,158
+Gulf Of Campeche,159
+Oaxaca;,160
+"Acapulco, mexico City",161
+Oaxaca (Miahiatlan),162
+"Honshu (Ishikawa, Toyama)",163
+Off Fukushima,164
+Honshu Island,165
+Niigata Prefecture,166
+Hokkaido,167
+Osaka,168
+Honshu (S. Of),169
+Shimane Prefecture,170
+Near E Coast Honshu,171
+Kurayoshi,172
+Off East Coast Honshu,173
+"Kumamoto, Oita",174
+Kyusyu Island,175
+Bonin Islands [chichijima Island],176
+Honshu,177
+"Nagano (Hakuba, Otari)",178
+Sanriku,179
+Southwestern,180
+Honshu (E Coast),181
+Miyakejima,182
+Japan,183
+Honshu (Miyagi Prefecture),184
+Bonin Islands,185
+"Tori Shima, Okinawa",186
+Honshu (Ito),187
+Honshu (S Coast),188
+Off East Coast Of Honshu Island,189
+Honshu (Tokyo),190
+Volcano Islands,191
+Honshu (W Coast),192
+Kyushu,193
+East Coast Honshu,194
+"Kyushu (Fukuoka, Genkai)",195
+"Hokkaido (Obiro, Haboro, Tomamae)",196
+Hokkaido (Kushiro),197
+"Hokkaido (Bekkai, Kushiro, Nemouro)",198
+Honshu (Niigata Prefecture),199
+"Honshu (W Coast: Kyoto, Wakayama, Sakai)",200
+Honshu (W Coast: Kyoto),201
+Near S Coast Honshu (Atsugi),202
+"Honshu (Miyagi, Iwate)",203
+"Honshu (Iwate, Miyagi, Yamagata, Akita)",204
+Ryukyu Islands,205
+"Hiroshima, Okayama, Honshu, Kagama",206
+"Honshu (W: Okayama, Tottori)",207
+Near S Coast Honshu (Nii-Jima),208
+Near S Coast Honshu (Kozu-Shima),209
+"Kyushu, Kagoshima",210
+Kyushu Island,211
+"Honshu Island, Japan",212
+Ryuku Is.,213
+"Niigata Prefecture, Sado",214
+"Sw Honshu (Kobe, Awaji-Shima, Nishinomiya)",215
+Hokkaido; Russia (Southeast; South Korea),216
+"Honshu (Ishikawa, Toyama, Niigata)",217
+"Hokkadio, Kushiro, Hachinohe, Honshu",218
+"W. Of Bonin Islands, Izu Is.",219
+Near S. Coast Of Honshu,220
+"Honshu (N, Aomori, Misawa)",221
+N. Honshu Island,222
+"Honshu (Ito, Ajiro)",223
+"Honshu (Chiba Perfecture, Tokyo)",224
+"Kyushu (Miyazaki, Naze)",225
+Honshu (Central: Mt Ontake),226
+Kyushu (Nobeoka),227
+"Tottori, Yonango",228
+"Miyakejima, Oshima",229
+"Noshiro, Japan",230
+Honshu (Akita),231
+S. Of Honshu Island,232
+"Ibaraki, Japan",233
+"Hokkaido, Urakawa, Hiroo",234
+E. Honshu Island,235
+"Tokyo, Yokohama",236
+"Iwate, Japan",237
+South Honshu (Hiroshima),238
+"Ofunato, Tohoku",239
+"Tokkaido, Oshima",240
+"Oita, Arosan",241
+Arosan,242
+"Honshu (Kakiota, Mito, Tokyo)",243
+Nakagi,244
+Hokkaido Island,245
+"South Of Honshu, Hachijojima",246
+"South Of Honshu (Hachijojima, Tokyo)",247
+Japan Trench,248
+"Seikaido, Japan",249
+Off Coast Of Honshu Island,250
+"Kyushu, Shikoku",251
+"Aichi, Shizouka Prefectures",252
+Nw. Honshu Island,253
+Honshu (Sendai),254
+Miyazaki,255
+Izu Peninsula,256
+Kashima,257
+Humboldt County,258
+Alaska Peninsula,259
+Alaska,260
+Sparta,261
+Utah,262
+Ridgecrest,263
+Ridgecrest; Nevada,264
+Anchorage,265
+Puna District,266
+"Breckenridge, Enid",267
+Kodiak Island,268
+Cushing,269
+Kenai,270
+"Napa, Vallejo",271
+Southeastern,272
+Harrah,273
+Aleutian Islands,274
+"La Habra, Brea, Fullerton",275
+Guthrie,276
+West,277
+"Sparks, Prague",278
+Sparks,279
+Aleutian Islands (Fox Islands),280
+Segundo,281
+"Louisa County, Maryland, Washington D.C.",282
+Paonia,283
+Luther,284
+Ocotillo,285
+Off Coast Northern,286
+Los Angeles,287
+Fallon,288
+West Salem,289
+Wells,290
+San Jose,291
+Huntington,292
+Montclair,293
+Sheridan,294
+Hawaiian Islands,295
+"Dillon, Silver Star, Twin Bridges",296
+"Central (Parkfield, San Miguel)",297
+"Paso Robles, templeton, atascadero",298
+Aleutian Islands (Rat Islands),299
+Bardwell,300
+"Fort Payne, gaylesville, valley Head",301
+Big Bear City,302
+"Slana, Mentasta Lake, Fairbanks",303
+"Cantwell, Denali Natl Park",304
+"Clinton, Essex, Au Sable Forks",305
+"Olympia, Seattle, Tacoma",306
+Napa,307
+"Ludlow, Landers, Twentynine Palms",308
+Andreanof Islands,309
+Fairbanks North Star County,310
+"Eureka, Samoa, Arcata, Blue Lake",311
+North (Honeydew),312
+Afton,313
+Northridge,314
+"Reading, Felt To Canada",315
+Klamath Falls,316
+Washington-Oregon Border,317
+Nevada Test Site,318
+"Big Bear Lake, Big Bear City",319
+"Landers, Yucca Valley",320
+"Humboldt County (Ferndale, Petrolia)",321
+"Joshua Tree, Angelus Oaks",322
+"Honeydew, Whitethorn, Petrolia",323
+"Arcadia, Glendale, Los Angeles",324
+"S, Claremont, Covina",325
+Loma Prieta,326
+Gulf Of Alaska (Anchorage),327
+Yakutat,328
+Superstition Hills,329
+Gulf Of Alaska,330
+"Whittier, Pasadena",331
+Whittier,332
+Chalfant Valley,333
+"San Diego, Newport Beach",334
+Palm Springs,335
+Aleutian Islands (Adak),336
+"Douglas, Medicine Bow",337
+Central (Morgan Hill),338
+Kapapala,339
+"Borah Peak, Challis, Mackay",340
+Prince William Sound,341
+"Central, Coalinga",342
+"Westmorland, calipatria",343
+North Coast,344
+Maysville,345
+Mammoth Lakes,346
+Mt St Helens,347
+Livermore,348
+Imperial Valley; Mexico (Mexicali),349
+Southern,350
+Hawaii,351
+Oroville,352
+Pocatello Valley,353
+Aleutian Islands (Near Islands),354
+Hilo,355
+Oxnard,356
+"Sitka, Juneau",357
+San Fernando,358
+Santa Rosa,359
+Seattle,360
+Hebgen Lake,361
+Lituya Bay,362
+Dixie Valley,363
+Stillwater Range,364
+Kern County,365
+Hokkaido,366
+Aomori,367
+Iwate,368
+Miyagi,369
+Akita,370
+Yamagata,371
+Fukushima,372
+Ibaraki,373
+Tochigi,374
+Gumma,375
+Saitama,376
+Chiba,377
+Tokyo,378
+Kanagawa,379
+Niigata,380
+Toyama,381
+Ishikawa,382
+Fukui,383
+Yamanashi,384
+Nagano,385
+Gifu,386
+Shizuoka,387
+Aichi,388
+Mie,389
+Shiga,390
+Kyoto,391
+Osaka,392
+Hyogo,393
+Nara,394
+Wakayama,395
+Tottori,396
+Shimane,397
+Okayama,398
+Hiroshima,399
+Yamaguchi,400
+Tokushima,401
+Kagawa,402
+Ehime,403
+Kochi,404
+Fukuoka,405
+Saga,406
+Nagasaki,407
+Kumamoto,408
+Oita,409
+Miyazaki,410
+Kagoshima,411
+Okinawa,412
+Hokkaido,413
+Aomori,414
+Iwate,415
+Miyagi,416
+Akita,417
+Yamagata,418
+Fukushima,419
+Ibaraki,420
+Tochigi,421
+Gumma,422
+Saitama,423
+Chiba,424
+Tokyo,425
+Kanagawa,426
+Niigata,427
+Toyama,428
+Ishikawa,429
+Fukui,430
+Yamanashi,431
+Nagano,432
+Gifu,433
+Shizuoka,434
+Aichi,435
+Mie,436
+Shiga,437
+Kyoto,438
+Osaka,439
+Hyogo,440
+Nara,441
+Wakayama,442
+Tottori,443
+Shimane,444
+Okayama,445
+Hiroshima,446
+Yamaguchi,447
+Tokushima,448
+Kagawa,449
+Ehime,450
+Kochi,451
+Fukuoka,452
+Saga,453
+Nagasaki,454
+Kumamoto,455
+Oita,456
+Miyazaki,457
+Kagoshima,458
+Okinawa,459
+Total,460

@@ -1,0 +1,11 @@
+tipo de descuento,id_tipo de descuento
+Descuento de Edificio con aislamiento Sismico,1
+"Descuento de Edificio con resistencia sismica alta (3)
+",2
+"Descuento de Edificio con resistencia sismica media(2)
+",3
+"Descuento de Edificio con resistencia sismica Baja(1)
+",4
+Descuento de En diagnostico de resistencia sismica,5
+Descuento de Año de construcción de la propiedad,6
+Sin Descuento (sin reducción de precio),7
