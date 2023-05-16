@@ -27,7 +27,7 @@
 + (agregar los archivos faltantes)
 
 
-## `Metodología de trabajo ?` 
+## `Metodología de trabajo` 
 
 (breve explicacion de la metodologia de trabajo (sprints))
 
