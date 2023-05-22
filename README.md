@@ -30,9 +30,15 @@
 
 - [EDA](./EDA.ipynb) : Notebook de python que contiene todo el código para el análisis exploratorio de datos.
 
-## `Metodología de trabajo` 
+## `Diagrama entidad-relación` 
 
-(breve explicacion de la metodologia de trabajo (sprints))
+<p align="center">
+<img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/Diagrama%20ER.png"  height=300>
+</p>
+
+
+## `Diagrama de flujo de trabajo` 
+
 
 ## `Data Engineer` 
 
