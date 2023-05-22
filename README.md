@@ -34,8 +34,6 @@ Además, desarrollamos un dashboard interactivo utilizando Power BI para present
 
 Estamos entusiasmados por compartir los resultados de nuestro análisis a través de este dashboard y esperamos que sea una herramienta valiosa para la empresa, ayudándoles a tomar decisiones fundamentadas y ofrecer servicios de seguro de calidad a sus clientes.
 
-¡Gracias por tu colaboración y si tienes alguna otra pregunta, estaremos encantados de ayudarte!
-
 ## `Estructura del repositorio`
 
 - [README.md](./README.md) : Archivo principal con información detallada del proyecto.
