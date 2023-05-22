@@ -26,13 +26,15 @@ Contamos con un equipo altamente colaborativo compuesto por 5 integrantes, cada 
 ## `Descripción del proyecto`
 En este proyecto, hemos trabajado en colaboración con una empresa de seguros especializada en la venta de pólizas de vida e inmuebles. Nuestro objetivo principal ha sido analizar y comprender los impactos de los sismos a nivel global. A través del análisis de datos, hemos buscado proporcionar a la empresa información valiosa que les permita mejorar sus estrategias y tomar decisiones informadas.
 
-El enfoque principal ha sido la evaluación de los sismos y su relación con la venta de pólizas de vida e inmuebles. Para lograrlo, hemos utilizado diversas técnicas de análisis de datos, como la extracción, transformación y carga (ETL) de los datos relacionados con los sismos y las ventas de seguros. Además, hemos aplicado técnicas de análisis exploratorio de datos (EDA) para identificar patrones, tendencias y correlaciones relevantes.
+Para llevar a cabo este proyecto, hemos implementado una base de datos en la nube utilizando Google Cloud, lo que nos ha permitido almacenar y gestionar eficientemente grandes volúmenes de datos relacionados con sismos y ventas de seguros. Además, hemos utilizado técnicas de extracción, transformación y carga (ETL) para procesar y preparar los datos de manera adecuada para su análisis.
 
-Además, hemos utilizado técnicas de machine learning para desarrollar modelos que puedan predecir la ocurrencia y la intensidad de los sismos, lo que permite a la empresa tomar medidas preventivas y ajustar sus estrategias de seguros de manera proactiva.
+Durante el proceso de ETL, hemos utilizado diversas técnicas, como la iteración en una API para obtener datos en tiempo real y el web scraping para obtener información adicional de fuentes públicas. Esto nos ha brindado un conjunto de datos completo y actualizado para nuestros análisis.
 
-Estamos emocionados de compartir los resultados de nuestro análisis y esperamos que estos sean de gran utilidad para la empresa, permitiéndoles tomar decisiones fundamentadas y ofrecer servicios de seguro de calidad a sus clientes.
+Además, hemos desarrollado un dashboard interactivo utilizando Power BI para presentar los resultados de nuestro análisis. Este dashboard proporciona visualizaciones claras y concisas que permiten a la empresa comprender fácilmente los patrones, tendencias y correlaciones relacionados con los sismos y las ventas de seguros. También hemos utilizado técnicas de machine learning para desarrollar modelos que puedan predecir la ocurrencia y la intensidad de los sismos, lo que permite a la empresa tomar medidas preventivas y ajustar sus estrategias de seguros de manera proactiva.
 
-¡Gracias por tu paciencia y permítenos saber si hay algo más en lo que podamos ayudarte!
+Estamos emocionados de compartir los resultados de nuestro análisis a través de este dashboard y esperamos que esta herramienta sea de gran utilidad para la empresa, permitiéndoles tomar decisiones fundamentadas y ofrecer servicios de seguro de calidad a sus clientes.
+
+¡Gracias por tu sugerencia y permítenos saber si hay algo más en lo que podamos ayudarte!
 
 ## `Estructura del repositorio`
 
