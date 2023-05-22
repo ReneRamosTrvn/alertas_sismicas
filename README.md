@@ -24,17 +24,17 @@ Contamos con un equipo altamente colaborativo compuesto por 5 integrantes, cada 
 + Iván Diaz  ( [Github](https://github.com/Ivancadi) - [LinkedIn](https://www.linkedin.com/in/ivan-diaz-ca%C3%B1avera-739124211/) )
 
 ## `Descripción del proyecto`
-En este proyecto, hemos trabajado en colaboración con una empresa de seguros especializada en la venta de pólizas de vida e inmuebles. Nuestro objetivo principal ha sido analizar y comprender los impactos de los sismos a nivel global. A través del análisis de datos, hemos buscado proporcionar a la empresa información valiosa que les permita mejorar sus estrategias y tomar decisiones informadas.
+Este proyecto se ha llevado a cabo en colaboración con una empresa de seguros especializada en pólizas de vida e inmuebles. Nuestro objetivo principal ha sido analizar y comprender los impactos de los sismos a nivel global, brindando información valiosa para mejorar las estrategias y la toma de decisiones de la empresa.
 
-Para llevar a cabo este proyecto, hemos implementado una base de datos en la nube utilizando Google Cloud, lo que nos ha permitido almacenar y gestionar eficientemente grandes volúmenes de datos relacionados con sismos y ventas de seguros. Además, hemos utilizado técnicas de extracción, transformación y carga (ETL) para procesar y preparar los datos de manera adecuada para su análisis.
+Para lograrlo, hemos implementado una base de datos en la nube utilizando Google Cloud, permitiéndonos almacenar y gestionar eficientemente los datos relacionados con sismos y ventas de seguros. Aplicamos técnicas de extracción, transformación y carga (ETL), así como análisis exploratorio de datos (EDA) para identificar patrones, tendencias y correlaciones relevantes.
 
-Durante el proceso de ETL, hemos utilizado diversas técnicas, como la iteración en una API para obtener datos en tiempo real y el web scraping para obtener información adicional de fuentes públicas. Esto nos ha brindado un conjunto de datos completo y actualizado para nuestros análisis.
+Durante el proceso de ETL, utilizamos diversas técnicas, como la iteración en una API para obtener datos en tiempo real y el web scraping para complementar la información de fuentes públicas. Esto nos proporcionó un conjunto de datos completo y actualizado para nuestros análisis.
 
-Además, hemos desarrollado un dashboard interactivo utilizando Power BI para presentar los resultados de nuestro análisis. Este dashboard proporciona visualizaciones claras y concisas que permiten a la empresa comprender fácilmente los patrones, tendencias y correlaciones relacionados con los sismos y las ventas de seguros. También hemos utilizado técnicas de machine learning para desarrollar modelos que puedan predecir la ocurrencia y la intensidad de los sismos, lo que permite a la empresa tomar medidas preventivas y ajustar sus estrategias de seguros de manera proactiva.
+Además, desarrollamos un dashboard interactivo utilizando Power BI para presentar los resultados. Este dashboard ofrece visualizaciones claras y concisas, facilitando la comprensión de los patrones, tendencias y correlaciones entre los sismos y las ventas de seguros. También aplicamos técnicas de machine learning para desarrollar modelos predictivos de la ocurrencia y la intensidad de los sismos, permitiendo a la empresa tomar medidas preventivas y ajustar sus estrategias de seguros de manera proactiva.
 
-Estamos emocionados de compartir los resultados de nuestro análisis a través de este dashboard y esperamos que esta herramienta sea de gran utilidad para la empresa, permitiéndoles tomar decisiones fundamentadas y ofrecer servicios de seguro de calidad a sus clientes.
+Estamos entusiasmados por compartir los resultados de nuestro análisis a través de este dashboard y esperamos que sea una herramienta valiosa para la empresa, ayudándoles a tomar decisiones fundamentadas y ofrecer servicios de seguro de calidad a sus clientes.
 
-¡Gracias por tu sugerencia y permítenos saber si hay algo más en lo que podamos ayudarte!
+¡Gracias por tu colaboración y si tienes alguna otra pregunta, estaremos encantados de ayudarte!
 
 ## `Estructura del repositorio`
 
