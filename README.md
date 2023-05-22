@@ -12,15 +12,15 @@
 Para este proyecto, contamos con un equipo de 5 integrantes altamente colaborativo. Aunque todos hemos participado en todas las etapas de desarrollo del producto, cada miembro ha asumido un rol específico, enfocándose en responsabilidades y objetivos particulares. La distribución de los roles es la siguiente:
 
 #### Data Engineer :
-+ Matias Trovatto ( [Github](https://github.com/MatyTrova) - [LinkedIN](https://www.linkedin.com/in/matias-trovatto-b33972255/) )
-+ Rene Ramos  ( [Github](https://github.com/ReneRamosTrvn) - [LinkedIN](https://www.linkedin.com/in/ren%C3%A9-ramos-669536194/) )
++ Matias Trovatto ( [Github](https://github.com/MatyTrova) - [LinkedIn](https://www.linkedin.com/in/matias-trovatto-b33972255/) )
++ Rene Ramos  ( [Github](https://github.com/ReneRamosTrvn) - [LinkedIn](https://www.linkedin.com/in/ren%C3%A9-ramos-669536194/) )
 
 #### Data Analytics :
-+ Vcitoria Rios ( [Github](https://github.com/QuimeraRios) - [LinkedIN](https://www.linkedin.com/in/victoria-rios-datascience/) )
-+ Jose Jimenez ( [Github](https://github.com/josej16) - [LinkedIN](https://www.linkedin.com/in/jos%C3%A9-antonio-jim%C3%A9nez-tob%C3%ADa-77914913b/) )
++ Vcitoria Rios ( [Github](https://github.com/QuimeraRios) - [LinkedIn](https://www.linkedin.com/in/victoria-rios-datascience/) )
++ Jose Jimenez ( [Github](https://github.com/josej16) - [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-antonio-jim%C3%A9nez-tob%C3%ADa-77914913b/) )
 
 #### Machine Learning :
-+ Iván Diaz  ( [Github](https://github.com/Ivancadi) - [LinkedIN](https://www.linkedin.com/in/ivan-diaz-ca%C3%B1avera-739124211/) )
++ Iván Diaz  ( [Github](https://github.com/Ivancadi) - [LinkedIn](https://www.linkedin.com/in/ivan-diaz-ca%C3%B1avera-739124211/) )
 
 
 
