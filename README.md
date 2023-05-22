@@ -26,7 +26,9 @@ Contamos con un equipo altamente colaborativo compuesto por 5 integrantes, cada 
 ## `Descripción del proyecto`
 Este proyecto se ha llevado a cabo en colaboración con una empresa de seguros especializada en pólizas de vida e inmuebles. Nuestro objetivo principal ha sido analizar y comprender los impactos de los sismos a nivel global, brindando información valiosa para mejorar las estrategias y la toma de decisiones de la empresa.
 
-Para lograrlo, hemos implementado una base de datos en la nube utilizando Google Cloud, permitiéndonos almacenar y gestionar eficientemente los datos relacionados con sismos y ventas de seguros. Aplicamos técnicas de extracción, transformación y carga (ETL), así como análisis exploratorio de datos (EDA) para identificar patrones, tendencias y correlaciones relevantes.
+Para lograrlo, hemos seguido una metodología ágil de trabajo, utilizando sprints para organizar nuestras actividades y garantizar un flujo eficiente de trabajo. Cada sprint ha tenido una duración fija y nos hemos enfocado en metas claras y alcanzables dentro de ese marco de tiempo.
+
+Hemos implementado una base de datos en la nube utilizando Google Cloud, lo que nos ha permitido almacenar y gestionar eficientemente los datos relacionados con sismos y ventas de seguros. Aplicamos técnicas de extracción, transformación y carga (ETL), así como análisis exploratorio de datos (EDA) para identificar patrones, tendencias y correlaciones relevantes.
 
 Durante el proceso de ETL, utilizamos diversas técnicas, como la iteración en una API para obtener datos en tiempo real y el web scraping para complementar la información de fuentes públicas. Esto nos proporcionó un conjunto de datos completo y actualizado para nuestros análisis.
 
