@@ -16,7 +16,7 @@ Para este proyecto, contamos con un equipo de 5 integrantes altamente colaborati
 + Rene Ramos  ( [Github](https://github.com/ReneRamosTrvn) - [LinkedIn](https://www.linkedin.com/in/ren%C3%A9-ramos-669536194/) )
 
 #### Data Analytics :
-+ Vcitoria Rios ( [Github](https://github.com/QuimeraRios) - [LinkedIn](https://www.linkedin.com/in/victoria-rios-datascience/) )
++ Victoria Rios ( [Github](https://github.com/QuimeraRios) - [LinkedIn](https://www.linkedin.com/in/victoria-rios-datascience/) )
 + Jose Jimenez ( [Github](https://github.com/josej16) - [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-antonio-jim%C3%A9nez-tob%C3%ADa-77914913b/) )
 
 #### Machine Learning :
