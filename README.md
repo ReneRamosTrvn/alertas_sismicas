@@ -14,21 +14,21 @@
 
 ## `Estructura del repositorio`
 
-- [README.md](./README.md): Archivo principal con información detallada del proyecto.
+- [README.md](./README.md) : Archivo principal con información detallada del proyecto.
 
-- [Datasets](./Datasets): Contiene los data sets utilizados en el proyecto.
+- [Datasets](./Datasets) : Contiene los data sets utilizados en el proyecto.
 
-- [Datasets_csv](./Datasets_csv): Contiene los data sets utilizados en el proyecto pero en formato CSV.
+- [Datasets_csv](./Datasets_csv) : Contiene los data sets utilizados en el proyecto pero en formato CSV.
 
-- [ML](./ML): Carpeta que contiene todos los elementos para el desarrollo del modelo de Machine Learning.
+- [ML](./ML) : Carpeta que contiene todos los elementos para el desarrollo del modelo de Machine Learning.
 
-- [driver](./driver): Contiene el driver para realizar el Web Scrapping
+- [driver](./driver) : Contiene el driver para realizar el Web Scrapping
 
-- [imgs](./imgs): Contiene las imágenes del proyecto.
+- [imgs](./imgs) : Contiene las imágenes del proyecto.
 
-- [ETL](./ETL.ipynb): Notebook de python que contiene todo el código para la extracción, transformación y carga de los datos (ETL).
+- [ETL](./ETL.ipynb) : Notebook de python que contiene todo el código para la extracción, transformación y carga de los datos.
 
-- [EDA](./EDA.ipynb): Notebook de python que contiene todo el código para el análisis exploratorio de datos (EDA).
+- [EDA](./EDA.ipynb) : Notebook de python que contiene todo el código para el análisis exploratorio de datos.
 
 ## `Metodología de trabajo` 
 
