@@ -73,7 +73,7 @@ Una vez formado y distribuido nuestro equipo de manera adecuada, nos complace pr
 
 ---
 ##### Nota: Para acceder a todos los archivos se puede ingresar al siguiente enlace de drive : 
-(link de drive de google)
+( [Link al drive](https://drive.google.com/drive/folders/1i0_Jir644PRO1j7tAGKSgVmxJ0_9C6KL) )
 
 <p align="center">
 <img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/henry.jpg"  alt="Final">
