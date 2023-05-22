@@ -7,7 +7,7 @@
 </p>
 
 --- 
-## ¡Bienvenidos al proyecto de análisis de datos de sismos para una compañía de seguros! Nos complace presentar los resultados de nuestro trabajo colaborativo en este emocionante proyecto.
+### ¡Bienvenidos al proyecto de análisis de datos de sismos para una compañía de seguros! Nos complace presentar los resultados de nuestro trabajo colaborativo en este emocionante proyecto.
 ---
 ## `Equipo`
 Contamos con un equipo altamente colaborativo compuesto por 5 integrantes, cada uno con roles específicos y enfoques particulares:
