@@ -13,6 +13,7 @@ Para este proyecto, contamos con un equipo de 5 integrantes altamente colaborati
 
 + Data Engineer :
 Matias Trovatto - [Github](https://github.com/MatyTrova)
+Rene Ramos - [Github](https://github.com/ReneRamosTrvn)
 
 
 ## `Estructura del repositorio`
