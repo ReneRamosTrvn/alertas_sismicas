@@ -7,9 +7,10 @@
 </p>
 
 --- 
-## `Descripción`
-
-Para este proyecto, contamos con un equipo de 5 integrantes altamente colaborativo. Aunque todos hemos participado en todas las etapas de desarrollo del producto, cada miembro ha asumido un rol específico, enfocándose en responsabilidades y objetivos particulares. La distribución de los roles es la siguiente:
+## ¡Bienvenidos al proyecto de análisis de datos de sismos para una compañía de seguros! Nos complace presentar los resultados de nuestro trabajo colaborativo en este emocionante proyecto.
+---
+## `Equipo`
+Contamos con un equipo altamente colaborativo compuesto por 5 integrantes, cada uno con roles específicos y enfoques particulares:
 
 #### Data Engineer :
 + Matias Trovatto ( [Github](https://github.com/MatyTrova) - [LinkedIn](https://www.linkedin.com/in/matias-trovatto-b33972255/) )
@@ -22,10 +23,16 @@ Para este proyecto, contamos con un equipo de 5 integrantes altamente colaborati
 #### Machine Learning :
 + Iván Diaz  ( [Github](https://github.com/Ivancadi) - [LinkedIn](https://www.linkedin.com/in/ivan-diaz-ca%C3%B1avera-739124211/) )
 
+## `Descripción del proyecto`
+En este proyecto, hemos trabajado en colaboración con una empresa de seguros especializada en la venta de pólizas de vida e inmuebles. Nuestro objetivo principal ha sido analizar y comprender los impactos de los sismos a nivel global. A través del análisis de datos, hemos buscado proporcionar a la empresa información valiosa que les permita mejorar sus estrategias y tomar decisiones informadas.
 
-Una vez formado y distribuido nuestro equipo de manera adecuada, nos complace presentar los resultados de nuestro trabajo colaborativo. En este proyecto, hemos trabajado en colaboración con una empresa de seguros especializada en la venta de pólizas de vida e inmuebles, con un enfoque particular en la evaluación de sismos a nivel global. Nuestro objetivo principal ha sido analizar y comprender los impactos de los sismos, brindando información valiosa a la empresa para mejorar sus estrategias y tomar decisiones informadas. Estamos entusiasmados de compartir los resultados de nuestro análisis y esperamos que sean de gran utilidad para la empresa y su objetivo de proporcionar servicios de seguro de calidad.
+El enfoque principal ha sido la evaluación de los sismos y su relación con la venta de pólizas de vida e inmuebles. Para lograrlo, hemos utilizado diversas técnicas de análisis de datos, como la extracción, transformación y carga (ETL) de los datos relacionados con los sismos y las ventas de seguros. Además, hemos aplicado técnicas de análisis exploratorio de datos (EDA) para identificar patrones, tendencias y correlaciones relevantes.
 
+Además, hemos utilizado técnicas de machine learning para desarrollar modelos que puedan predecir la ocurrencia y la intensidad de los sismos, lo que permite a la empresa tomar medidas preventivas y ajustar sus estrategias de seguros de manera proactiva.
 
+Estamos emocionados de compartir los resultados de nuestro análisis y esperamos que estos sean de gran utilidad para la empresa, permitiéndoles tomar decisiones fundamentadas y ofrecer servicios de seguro de calidad a sus clientes.
+
+¡Gracias por tu paciencia y permítenos saber si hay algo más en lo que podamos ayudarte!
 
 ## `Estructura del repositorio`
 
