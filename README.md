@@ -23,6 +23,9 @@ Para este proyecto, contamos con un equipo de 5 integrantes altamente colaborati
 + Iván Diaz  ( [Github](https://github.com/Ivancadi) - [LinkedIn](https://www.linkedin.com/in/ivan-diaz-ca%C3%B1avera-739124211/) )
 
 
+Una vez formado y distribuido nuestro equipo de manera adecuada, nos complace presentar los resultados de nuestro trabajo colaborativo. En este proyecto, hemos trabajado en colaboración con una empresa de seguros especializada en la venta de pólizas de vida e inmuebles, con un enfoque particular en la evaluación de sismos a nivel global. Nuestro objetivo principal ha sido analizar y comprender los impactos de los sismos, brindando información valiosa a la empresa para mejorar sus estrategias y tomar decisiones informadas. Estamos entusiasmados de compartir los resultados de nuestro análisis y esperamos que sean de gran utilidad para la empresa y su objetivo de proporcionar servicios de seguro de calidad.
+
+
 
 ## `Estructura del repositorio`
 
