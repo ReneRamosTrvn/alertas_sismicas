@@ -33,7 +33,7 @@
 ## `Diagrama entidad-relación` 
 
 <p align="center">
-<img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/Diagrama%20ER.png"  height=300>
+<img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/Diagrama%20ER.png">
 </p>
 
 
