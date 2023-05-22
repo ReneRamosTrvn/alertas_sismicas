@@ -9,7 +9,10 @@
 --- 
 ## `Descripción`
 
-(colocar descripción)
+Para este proyecto, contamos con un equipo de 5 integrantes altamente colaborativo. Aunque todos hemos participado en todas las etapas de desarrollo del producto, cada miembro ha asumido un rol específico, enfocándose en responsabilidades y objetivos particulares. La distribución de los roles es la siguiente:
+
++ Data Engineer :
+Matias Trovatto - [Github](https://github.com/MatyTrova)
 
 
 ## `Estructura del repositorio`
