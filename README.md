@@ -61,7 +61,10 @@ Estamos entusiasmados por compartir los resultados de nuestro análisis a travé
 </p>
 
 
-## `Diagrama de flujo de trabajo` 
+## `Diagrama de flujo` 
+<p align="center">
+<img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/Add%20a%20little%20bit%20of%20body%20text%20(3).pdf">
+</p>
 
 
 ## `Data Engineer` 
