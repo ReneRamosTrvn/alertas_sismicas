@@ -81,19 +81,14 @@ Estamos entusiasmados por compartir los resultados de nuestro análisis a travé
 (breve expl del trabajo del equipo de data analytics)
 
 ## `Machine Learning` 
-Se implementa un modelo de machine learning utilizando el método k-means para clasificar la peligrosidad de los sismos utilizando las características de estos, el cual consta de tres etapas principales: EDA (Exploratory Data Analysis), Evaluación de datos y Aplicación del modelo a los datos.
 
-En la etapa de EDA, se realizaron técnicas de exploración de datos para analizar la distribución de las variables profundidad, magnitud y amplitud de ondas sísmicas. Se observó que la mayoría de los sismos se encuentran a profundidades entre 0 y 10 km, con una concentración notable alrededor de los 5 km. En cuanto a las magnitudes, se encontró que la mayoría de los sismos registrados tienen magnitudes entre 1 y 3, siendo más frecuentes los de magnitud 2. En relación a la amplitud de las ondas sísmicas, se notó que la mayoría de los sismos presentan amplitudes cercanas a cero.
+Se ha implementado un modelo de machine learning utilizando el algoritmo K-means. El proceso comienza con un análisis exploratorio de los datos, donde se estudian las variables relevantes como la profundidad, magnitud y amplitud de ondas sísmicas. A través de técnicas de visualización, se identifican patrones y tendencias en los datos.
 
-Posteriormente, en el mismo análisis exploratorio, se crearon dos gráficos de dispersión. El primero comparó la profundidad con la magnitud, revelando que la mayoría de los sismos con magnitudes mayores a 5 se originaron a profundidades menores a 10 km. El segundo gráfico comparó la amplitud de onda con la magnitud, mostrando que los sismos de diferentes magnitudes presentan amplitudes de onda cercanas a cero.
+Luego, se lleva a cabo una evaluación de los datos utilizando dos métodos: el Codo de Jambu (Elbow) y el índice de silueta (Silhouette). Estos métodos permiten determinar el número óptimo de clusters para el modelo de K-means y evaluar la calidad del agrupamiento obtenido. Se comparan los resultados con la elección inicial de 3 clusters para validar la robustez del modelo.
 
-En la etapa de Evaluación de datos, se utilizó la técnica del codo de Jambu para determinar el número óptimo de clusters. El resultado indicó que el número óptimo de clusters era 2. También se aplicó la métrica del índice de silueta para evaluar la calidad del agrupamiento, obteniendo un valor de 0.47. Cabe destacar que, aunque se tenía previamente en mente utilizar 3 clusters, se realizaron estas evaluaciones para analizar el comportamiento de los datos y comparar las métricas con la elección inicial de 3 clusters.
+Una vez definido el número de clusters, se aplica el algoritmo K-means a los datos y se entrena el modelo. Para visualizar los resultados de manera gráfica, se utiliza la técnica de reducción de dimensionalidad llamada PCA, que proyecta los datos en un espacio bidimensional. Esto permite representar los clusters en un gráfico 2D y visualizar la distribución de los sismos según su peligrosidad.
 
-En la etapa de Aplicación del modelo a los datos, se utilizó el algoritmo k-means con el número de clusters definido previamente (3). Se aplicó el modelo a los datos y posteriormente se evaluó nuevamente utilizando la métrica del índice de silueta, obteniendo un valor de 0.47. Luego, se aplicó la técnica de PCA para reducir la dimensionalidad del dataset original a 2 componentes, permitiendo visualizar los datos ya clusterizados en un gráfico.
-
-Con este modelo implementado, se busca clasificar la peligrosidad de los sismos utilizando las características de profundidad, magnitud y amplitud de ondas sísmicas. Los resultados obtenidos pueden ayudar a identificar y comprender mejor los diferentes niveles de peligrosidad de los sismos.
-
-(breve expl del trabajo del equipo de ML)
+Finalmente, el modelo se lleva a producción mediante la implementación de una interfaz de usuario utilizando Streamlit. Los usuarios pueden interactuar con la interfaz y proporcionar las características de un sismo (profundidad, magnitud y amplitud de ondas sísmicas) a través de sliders. El modelo aplicado en tiempo real proporciona una predicción sobre la peligrosidad del sismo, indicando si es de baja, media o alta peligrosidad.
 
 ## `Dashboard` 
 
