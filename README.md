@@ -62,8 +62,13 @@ Estamos entusiasmados por compartir los resultados de nuestro análisis a travé
 
 
 ## `Diagrama de flujo` 
+
 <p align="center">
-<img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/Add%20a%20little%20bit%20of%20body%20text%20(3).pdf" height=300>
+<img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/31db1805ab784cdcc2b9a5c4bc3f9fe2QhQnD9gQr9oyACnz-0.png" height=300>
+</p>
+
+<p align="center">
+<img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/31db1805ab784cdcc2b9a5c4bc3f9fe2QhQnD9gQr9oyACnz-1.png" height=300>
 </p>
 
 
