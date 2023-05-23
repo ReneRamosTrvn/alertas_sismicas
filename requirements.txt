@@ -1,8 +1,0 @@
-pandas
-streamlit
-scikit-learn
-<<<<<<< HEAD
-numpy
-=======
-numpy
->>>>>>> a6014168fa101215e69423c5d098eaf0a4b35d5b
