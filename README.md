@@ -81,6 +81,17 @@ Estamos entusiasmados por compartir los resultados de nuestro análisis a travé
 (breve expl del trabajo del equipo de data analytics)
 
 ## `Machine Learning` 
+Se implementa un modelo de machine learning utilizando el método k-means para clasificar la peligrosidad de los sismos utilizando las características de estos, el cual consta de tres etapas principales: EDA (Exploratory Data Analysis), Evaluación de datos y Aplicación del modelo a los datos.
+
+En la etapa de EDA, se realizaron técnicas de exploración de datos para analizar la distribución de las variables profundidad, magnitud y amplitud de ondas sísmicas. Se observó que la mayoría de los sismos se encuentran a profundidades entre 0 y 10 km, con una concentración notable alrededor de los 5 km. En cuanto a las magnitudes, se encontró que la mayoría de los sismos registrados tienen magnitudes entre 1 y 3, siendo más frecuentes los de magnitud 2. En relación a la amplitud de las ondas sísmicas, se notó que la mayoría de los sismos presentan amplitudes cercanas a cero.
+
+Posteriormente, en el mismo análisis exploratorio, se crearon dos gráficos de dispersión. El primero comparó la profundidad con la magnitud, revelando que la mayoría de los sismos con magnitudes mayores a 5 se originaron a profundidades menores a 10 km. El segundo gráfico comparó la amplitud de onda con la magnitud, mostrando que los sismos de diferentes magnitudes presentan amplitudes de onda cercanas a cero.
+
+En la etapa de Evaluación de datos, se utilizó la técnica del codo de Jambu para determinar el número óptimo de clusters. El resultado indicó que el número óptimo de clusters era 2. También se aplicó la métrica del índice de silueta para evaluar la calidad del agrupamiento, obteniendo un valor de 0.47. Cabe destacar que, aunque se tenía previamente en mente utilizar 3 clusters, se realizaron estas evaluaciones para analizar el comportamiento de los datos y comparar las métricas con la elección inicial de 3 clusters.
+
+En la etapa de Aplicación del modelo a los datos, se utilizó el algoritmo k-means con el número de clusters definido previamente (3). Se aplicó el modelo a los datos y posteriormente se evaluó nuevamente utilizando la métrica del índice de silueta, obteniendo un valor de 0.47. Luego, se aplicó la técnica de PCA para reducir la dimensionalidad del dataset original a 2 componentes, permitiendo visualizar los datos ya clusterizados en un gráfico.
+
+Con este modelo implementado, se busca clasificar la peligrosidad de los sismos utilizando las características de profundidad, magnitud y amplitud de ondas sísmicas. Los resultados obtenidos pueden ayudar a identificar y comprender mejor los diferentes niveles de peligrosidad de los sismos.
 
 (breve expl del trabajo del equipo de ML)
 
