@@ -57,7 +57,7 @@ Estamos entusiasmados por compartir los resultados de nuestro análisis a travé
 ## `Diagrama entidad-relación` 
 
 <p align="center">
-<img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/Diagrama%20ER.png" height=300>
+<img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/Diagrama%20ER.svg" height=300>
 </p>
 
 
