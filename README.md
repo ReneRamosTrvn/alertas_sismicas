@@ -107,6 +107,7 @@ El proceso de selección de los KPIs se basó inicialmente en 5 indicadores clav
 + Aumento de las pólizas de vida.
 + Aumento de participantes en simulacros.
 + Reducción de fatalidades en eventos sísmicos.
+
 Los KPIs relacionados con las pólizas de inmuebles y vida resultaron especialmente útiles, ya que se obtuvo información de alta calidad para medir su desempeño. En el caso de los KPIs de simulacros y fatalidades, se requirió utilizar técnicas de web scraping para recopilar datos relevantes.
 
 El desarrollo y la explicación de estos KPIs se orientaron a los intereses de una empresa aseguradora, con el objetivo de encontrar formas de aumentar los ingresos y reducir las pérdidas. Además, se prestó atención a aspectos visuales, como una paleta de colores agradable a la vista, un posicionamiento adecuado de los gráficos y una clara definición de los títulos, con el fin de que todo el dashboard fuera fácilmente comprensible a simple vista.
@@ -125,41 +126,48 @@ Una vez definido el número de clusters, se aplica el algoritmo K-means a los da
 
 Finalmente, el modelo se lleva a producción mediante la implementación de una interfaz de usuario utilizando Streamlit. Los usuarios pueden interactuar con la interfaz y proporcionar las características de un sismo (profundidad, magnitud y amplitud de ondas sísmicas) a través de sliders. El modelo aplicado en tiempo real proporciona una predicción sobre la peligrosidad del sismo, indicando si es de baja, media o alta peligrosidad.
 
+---
+
 ## `Dashboard` 
 A continuación se adjuntan las imágenes del respectivo dashboard
 ---
+
++ KPIs
 <p align="center">
 <img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/portada.png"  alt="Final">
 </p>
-+ KPIs
+
 
 ---
 
++ Aumento de pólizas de inmuebles
 <p align="center">
 <img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/pag%201.png"  alt="Final">
 </p>
-+ Aumento de pólizas de inmuebles
+
 
 ---
 
++ Aumento de pólizas de vida
 <p align="center">
 <img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/pag2.png"  alt="Final">
 </p>
-+ Aumento de pólizas de vida
+
 
 ---
 
++ Aumento de participación en simulacros
 <p align="center">
 <img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/pag3.png"  alt="Final">
 </p>
-+ Aumento de participación en simulacros
 
 ---
 
++ Disminución de fatalidades
 <p align="center">
 <img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/pag4.png"  alt="Final">
 </p>
-+ Disminución de fatalidades
+
 
 ---
 
