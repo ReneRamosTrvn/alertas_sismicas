@@ -57,10 +57,9 @@ Estamos entusiasmados por compartir los resultados de nuestro análisis a travé
 - [EDA](./EDA.ipynb) : Notebook de python que contiene todo el código para el análisis exploratorio de datos.
 
 ## `Ciclo de vida del dato` 
-En proceso ... :)
 
 <p align="center">
-<img src=""  alt="Final">
+<img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/diagrama%20ciclo%20de%20dato.jpeg"  alt="Final">
 </p>
 
 ## `Diagrama entidad-relación` 
@@ -113,7 +112,15 @@ Los KPIs relacionados con las pólizas de inmuebles y vida resultaron especialme
 
 El desarrollo y la explicación de estos KPIs se orientaron a los intereses de una empresa aseguradora, con el objetivo de encontrar formas de aumentar los ingresos y reducir las pérdidas. Además, se prestó atención a aspectos visuales, como una paleta de colores agradable a la vista, un posicionamiento adecuado de los gráficos y una clara definición de los títulos, con el fin de que todo el dashboard fuera fácilmente comprensible a simple vista.
 
-El KPI de fatalidades resultó ser de vital importancia para reducir las pérdidas por reclamos de muerte en seguros de vida. Se observó una correlación negativa entre el aumento de pólizas y la disminución de fatalidades. Además, el KPI de aumento de participantes en simulacros desempeñó un papel fundamental, ya que contribuyó a reducir las fatalidades en caso de sismos. Esta disminución en las fatalidades resultó en una reducción de los pagos de reclamos por muerte asociados a eventos sísmicos.
+El KPI de fatalidades resultó ser de vital importancia para reducir las pérdidas por reclamos de muerte en seguros de vida. Se observó una correlación negativa entre el aumento de pólizas y la disminución de fatalidades. Además, el KPI de aumento de participantes en simulacros desempeñó un papel fundamental, ya que contribuyó a reducir las fatalidades en caso de sismos. Esta disminución en las fatalidades resultó en una reducción de los pagos de reclamos por muerte asociados a eventos sísmicos
+
+El análisis del KPI de inmuebles para una empresa de seguros es prometedor, ya que permite determinar la frecuencia y ubicación de los sismos, así como identificar las áreas que necesitan adquirir seguros. El gobierno de Japón incentiva la adquisición de seguros para viviendas con resistencia sísmica. Se encontraron oportunidades para ofrecer pólizas en áreas con alta frecuencia de sismos pero baja adquisición de seguros.
+
+En cuanto a las pólizas de vida, se observó que en promedio hay tres personas cubiertas por cada póliza, lo que indica un enfoque familiar en lugar de individual. Se recomienda ofrecer pólizas familiares y considerar coberturas para visitas ambulatorias, ya que son los reclamos más frecuentes.
+
+A pesar de la pandemia, el sector de seguros había experimentado un crecimiento considerable en la adquisición de pólizas de inmuebles y vida. Esto representa una cobertura del 83% en relación a la población de Japón.
+
+En resumen, el análisis de los KPIs permite identificar las áreas de riesgo sísmico y los enfoques de pólizas que se deben ofrecer. Además, se recomienda enfocarse en pólizas familiares y considerar coberturas para visitas ambulatorias en las pólizas de vida. A pesar de la pandemia, el sector de seguros había experimentado un crecimiento sólido en la adquisición de pólizas.
 
 ---
 
