@@ -50,9 +50,18 @@ Estamos entusiasmados por compartir los resultados de nuestro análisis a travé
 
 - [imgs](./imgs) : Contiene las imágenes del proyecto.
 
+- [Diagrama de Gantt](./DiagramaGanttAlertasSismicas.xlsx) : Contiene el diagrama de Gantt que muestra la trayectoria del proyecto.
+
 - [ETL](./ETL.ipynb) : Notebook de python que contiene todo el código para la extracción, transformación y carga de los datos.
 
 - [EDA](./EDA.ipynb) : Notebook de python que contiene todo el código para el análisis exploratorio de datos.
+
+## `Ciclo de vida del dato` 
+En proceso ... :)
+
+<p align="center">
+<img src=""  alt="Final">
+</p>
 
 ## `Diagrama entidad-relación` 
 
@@ -71,6 +80,7 @@ Estamos entusiasmados por compartir los resultados de nuestro análisis a travé
 <img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/31db1805ab784cdcc2b9a5c4bc3f9fe2QhQnD9gQr9oyACnz-1.png" >
 </p>
 
+---
 
 ## `Data Engineer` 
 El equipo de Data Engineer se encargó de llevar a cabo todo el proceso de Extracción, Transformación y Carga (ETL) de los datos. Inicialmente, se identificaron las fuentes de datos necesarias, las cuales incluían una API, páginas web, archivos Excel y JSON. Una vez que se obtuvo acceso a estas fuentes, se procedió a la extracción de los datos.
@@ -87,9 +97,23 @@ Finalmente, se exportaron los 33 archivos resultantes en dos formatos: JSON, par
 
 Además, se configuró la infraestructura en Google Cloud Platform (GCP), integrando el código de transformación en el entorno y garantizando la correcta ejecución del proceso ETL. El resultado fue un flujo de datos automatizado y eficiente, con los datos transformados y cargados en el data warehouse de BigQuery, listos para ser analizados posteriormente por el equipo de Data Analytics.
 
+---
+
 ## `Data Analytics` 
 
-(breve expl del trabajo del equipo de data analytics)
+El proceso de selección de los KPIs se basó inicialmente en 5 indicadores clave, pero después de varias correcciones, se redujo a 4 KPIs. Estos KPIs se centraron en los siguientes aspectos:
+
++ Aumento de las pólizas de inmuebles.
++ Aumento de las pólizas de vida.
++ Aumento de participantes en simulacros.
++ Reducción de fatalidades en eventos sísmicos.
+Los KPIs relacionados con las pólizas de inmuebles y vida resultaron especialmente útiles, ya que se obtuvo información de alta calidad para medir su desempeño. En el caso de los KPIs de simulacros y fatalidades, se requirió utilizar técnicas de web scraping para recopilar datos relevantes.
+
+El desarrollo y la explicación de estos KPIs se orientaron a los intereses de una empresa aseguradora, con el objetivo de encontrar formas de aumentar los ingresos y reducir las pérdidas. Además, se prestó atención a aspectos visuales, como una paleta de colores agradable a la vista, un posicionamiento adecuado de los gráficos y una clara definición de los títulos, con el fin de que todo el dashboard fuera fácilmente comprensible a simple vista.
+
+El KPI de fatalidades resultó ser de vital importancia para reducir las pérdidas por reclamos de muerte en seguros de vida. Se observó una correlación negativa entre el aumento de pólizas y la disminución de fatalidades. Además, el KPI de aumento de participantes en simulacros desempeñó un papel fundamental, ya que contribuyó a reducir las fatalidades en caso de sismos. Esta disminución en las fatalidades resultó en una reducción de los pagos de reclamos por muerte asociados a eventos sísmicos.
+
+---
 
 ## `Machine Learning` 
 
@@ -108,29 +132,40 @@ A continuación se adjuntan las imágenes del respectivo dashboard
 <img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/portada.png"  alt="Final">
 </p>
 + KPIs
+
 ---
+
 <p align="center">
 <img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/pag%201.png"  alt="Final">
 </p>
 + Aumento de pólizas de inmuebles
+
 ---
+
 <p align="center">
 <img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/pag2.png"  alt="Final">
 </p>
 + Aumento de pólizas de vida
+
 ---
+
 <p align="center">
 <img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/pag3.png"  alt="Final">
 </p>
 + Aumento de participación en simulacros
+
 ---
+
 <p align="center">
 <img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/pag4.png"  alt="Final">
 </p>
 + Disminución de fatalidades
+
 ---
+
 ##### Nota: Para acceder a todos los archivos, incluido el dashboard, se puede ingresar al siguiente enlace de drive : 
 ( [Link al drive](https://drive.google.com/drive/folders/1i0_Jir644PRO1j7tAGKSgVmxJ0_9C6KL) )
+
 ---
 
 <p align="center">
