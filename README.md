@@ -91,12 +91,36 @@ Una vez definido el número de clusters, se aplica el algoritmo K-means a los da
 Finalmente, el modelo se lleva a producción mediante la implementación de una interfaz de usuario utilizando Streamlit. Los usuarios pueden interactuar con la interfaz y proporcionar las características de un sismo (profundidad, magnitud y amplitud de ondas sísmicas) a través de sliders. El modelo aplicado en tiempo real proporciona una predicción sobre la peligrosidad del sismo, indicando si es de baja, media o alta peligrosidad.
 
 ## `Dashboard` 
-
-(imágenes del dashboard)
-
+A continuación se adjuntan las imágenes del respectivo dashboard
 ---
-##### Nota: Para acceder a todos los archivos se puede ingresar al siguiente enlace de drive : 
+<p align="center">
+<img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/portada.png"  alt="Final">
+</p>
++ KPIs
+---
+<p align="center">
+<img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/pag%201.png"  alt="Final">
+</p>
++ Aumento de pólizas de inmuebles
+---
+<p align="center">
+<img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/pag2.png"  alt="Final">
+</p>
++ Aumento de pólizas de vida
+---
+<p align="center">
+<img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/pag3.png"  alt="Final">
+</p>
++ Aumento de participación en simulacros
+---
+<p align="center">
+<img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/pag4.png"  alt="Final">
+</p>
++ Disminución de fatalidades
+---
+##### Nota: Para acceder a todos los archivos, incluido el dashboard, se puede ingresar al siguiente enlace de drive : 
 ( [Link al drive](https://drive.google.com/drive/folders/1i0_Jir644PRO1j7tAGKSgVmxJ0_9C6KL) )
+---
 
 <p align="center">
 <img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/henry.jpg"  alt="Final">
