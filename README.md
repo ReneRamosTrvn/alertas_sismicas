@@ -66,8 +66,9 @@ En proceso ... :)
 ## `Diagrama entidad-relación` 
 
 <p align="center">
-<img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/Diagrama%20ER.svg" >
+  <img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/Diagrama%20ER.svg" width="800" height="600">
 </p>
+
 
 
 ## `Diagrama de flujo` 
