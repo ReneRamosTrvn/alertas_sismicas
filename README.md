@@ -73,8 +73,19 @@ Estamos entusiasmados por compartir los resultados de nuestro análisis a travé
 
 
 ## `Data Engineer` 
+El equipo de Data Engineer se encargó de llevar a cabo todo el proceso de Extracción, Transformación y Carga (ETL) de los datos. Inicialmente, se identificaron las fuentes de datos necesarias, las cuales incluían una API, páginas web, archivos Excel y JSON. Una vez que se obtuvo acceso a estas fuentes, se procedió a la extracción de los datos.
 
-(breve explicación del trabajo del equipo de data eng)
+La extracción de datos se llevó a cabo principalmente utilizando Python como la herramienta principal. Se desarrolló un notebook de Python completamente documentado y explicado, el cual detalla los pasos y la lógica detrás de cada extracción. Se utilizaron diversas técnicas en esta etapa, como la iteración a través de una API, el web scraping en varias páginas y la combinación de los datos, así como la lectura de archivos Excel y JSON. Cada uno de estos procesos se describe paso a paso en el correspondiente notebook. Durante el web scraping, el equipo se enfrentó a algunos desafíos, pero gracias al trabajo en equipo, se lograron resolver y cumplir con los objetivos establecidos.
+
+Una vez que se obtuvieron todas las tablas de datos, se realizó un Análisis Exploratorio de Datos (EDA, por sus siglas en inglés) con el objetivo de identificar patrones, tendencias y correlaciones relevantes. Este análisis se llevó a cabo utilizando Python como herramienta principal, lo que permitió examinar más detalladamente cada tabla de la base de datos.
+
+El EDA proporcionó una visión más profunda de los datos, revelando información valiosa sobre las características y distribución de los datos en cada tabla. Mediante técnicas de visualización y estadísticas descriptivas, se lograron identificar patrones emergentes, tendencias significativas y posibles relaciones entre las variables.
+
+Este proceso de exploración brindó al equipo una comprensión más sólida de la naturaleza de los datos, lo que ayudó a tomar decisiones fundamentadas en el posterior análisis y modelado de datos. A continuación, se aplicaron una serie de transformaciones para asegurar la calidad de los mismos. Estas transformaciones incluyeron la estandarización y normalización de las tablas, la eliminación de columnas que no aportaban valor, la agregación de columnas de identificación y la extracción de tablas dimensionales para mejorar la estructura general de los datos.
+
+Finalmente, se exportaron los 33 archivos resultantes en dos formatos: JSON, para su posterior procesamiento, y CSV, para facilitar el trabajo en la nube y permitir un manejo más sencillo de los datos.
+
+Además, se configuró la infraestructura en Google Cloud Platform (GCP), integrando el código de transformación en el entorno y garantizando la correcta ejecución del proceso ETL. El resultado fue un flujo de datos automatizado y eficiente, con los datos transformados y cargados en el data warehouse de BigQuery, listos para ser analizados posteriormente por el equipo de Data Analytics.
 
 ## `Data Analytics` 
 
