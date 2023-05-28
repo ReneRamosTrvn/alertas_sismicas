@@ -36,10 +36,8 @@ Además, desarrollamos un dashboard interactivo utilizando Power BI para present
 
 Estamos entusiasmados por compartir los resultados de nuestro análisis a través de este dashboard y esperamos que sea una herramienta valiosa para la empresa, ayudándoles a tomar decisiones fundamentadas y ofrecer servicios de seguro de calidad a sus clientes.
 
-## `Enlaces de importancia`
+[Video explicativo](https://youtu.be/6GYkmYvxhkw)
 
-+ [Video explicativo](https://youtu.be/6GYkmYvxhkw)
-+ [Streamlit (machine learning)](https://matytrova-pf-alertassismicas-streamlit-ysipmo.streamlit.app/)
 
 ## `Estructura del repositorio`
 
