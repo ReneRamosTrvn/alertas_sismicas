@@ -42,7 +42,7 @@ def main():
 if __name__ == '__main__':
     main()
 
-=======
+
 # Importar librerias
 import pandas as pd
 import streamlit as st
