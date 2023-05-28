@@ -3,7 +3,7 @@
                                             
 
 <p align="center">
-<img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/Earthquake%20safety%20steps%20with%20disaster%20emergency%20action%20advice%20outline%20diagram.jpg"  height=300>
+<img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/logo.jpeg"  height=300>
 </p>
 
 --- 
@@ -35,6 +35,11 @@ Durante el proceso de ETL, utilizamos diversas técnicas, como la iteración en 
 Además, desarrollamos un dashboard interactivo utilizando Power BI para presentar los resultados. Este dashboard ofrece visualizaciones claras y concisas, facilitando la comprensión de los patrones, tendencias y correlaciones entre los sismos y las ventas de seguros. También aplicamos técnicas de machine learning para desarrollar modelos predictivos de la ocurrencia y la intensidad de los sismos, permitiendo a la empresa tomar medidas preventivas y ajustar sus estrategias de seguros de manera proactiva.
 
 Estamos entusiasmados por compartir los resultados de nuestro análisis a través de este dashboard y esperamos que sea una herramienta valiosa para la empresa, ayudándoles a tomar decisiones fundamentadas y ofrecer servicios de seguro de calidad a sus clientes.
+
+## `Enlaces de importancia`
+
++ [Video explicativo](https://youtu.be/6GYkmYvxhkw)
++ [Streamlit (machine learning)](https://matytrova-pf-alertassismicas-streamlit-ysipmo.streamlit.app/)
 
 ## `Estructura del repositorio`
 
