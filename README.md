@@ -1,5 +1,5 @@
 
-# <h1 align=center> **Proyecto Final: Alertas sísmicas** </h1>
+# <h1 align=center> **Final Project - Sismic Alerts** </h1>
                                             
 
 <p align="center">
@@ -7,65 +7,65 @@
 </p>
 
 --- 
-### ¡Bienvenidos al proyecto de análisis de datos de sismos para una compañía de seguros! Nos complace presentar los resultados de nuestro trabajo colaborativo en este emocionante proyecto.
+### Welcome to the earthquake data analysis project for an insurance company! We are pleased to present the results of our collaborative work on this exciting project.
 ---
-## `Equipo`
-Contamos con un equipo altamente colaborativo compuesto por 5 integrantes, cada uno con roles específicos y enfoques particulares:
+## `Team`
+We have a highly collaborative team composed of 5 members, each with specific roles and distinct approaches:
 
 #### Data Engineer :
 + Matias Trovatto ( [Github](https://github.com/MatyTrova) - [LinkedIn](https://www.linkedin.com/in/matias-trovatto-b33972255/) )
 + Rene Ramos  ( [Github](https://github.com/ReneRamosTrvn) - [LinkedIn](https://www.linkedin.com/in/ren%C3%A9-ramos-669536194/) )
 
-#### Data Analytics :
+#### Data Analysts :
 + Victoria Rios ( [Github](https://github.com/QuimeraRios) - [LinkedIn](https://www.linkedin.com/in/victoria-rios-datascience/) )
 + Jose Jimenez ( [Github](https://github.com/josej16) - [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-antonio-jim%C3%A9nez-tob%C3%ADa-77914913b/) )
 
-#### Machine Learning :
+#### Machine Learning Developer :
 + Iván Diaz  ( [Github](https://github.com/Ivancadi) - [LinkedIn](https://www.linkedin.com/in/ivan-diaz-ca%C3%B1avera-739124211/) )
 
-## `Descripción del proyecto`
-Este proyecto se ha llevado a cabo en colaboración con una empresa de seguros especializada en pólizas de vida e inmuebles. Nuestro objetivo principal ha sido analizar y comprender los impactos de los sismos a nivel global, brindando información valiosa para mejorar las estrategias y la toma de decisiones de la empresa.
+## `About the project:`
+This project has been carried out in collaboration with an insurance company specializing in life and property policies. Our main objective has been to analyze and understand the impacts of earthquakes globally, providing valuable information to improve the company's strategies and decision-making.
 
-Para lograrlo, hemos seguido una metodología ágil de trabajo, utilizando sprints para organizar nuestras actividades y garantizar un flujo eficiente de trabajo. Cada sprint ha tenido una duración fija y nos hemos enfocado en metas claras y alcanzables dentro de ese marco de tiempo.
+To achieve this, we have followed an agile methodology, using sprints to organize our activities and ensure an efficient workflow. Each sprint had a fixed duration, and we focused on clear and achievable goals within that timeframe.
 
-Hemos implementado una base de datos en la nube utilizando Google Cloud, lo que nos ha permitido almacenar y gestionar eficientemente los datos relacionados con sismos y ventas de seguros. Aplicamos técnicas de extracción, transformación y carga (ETL), así como análisis exploratorio de datos (EDA) para identificar patrones, tendencias y correlaciones relevantes.
+We implemented a cloud-based database using Google Cloud, which allowed us to efficiently store and manage earthquake and insurance sales data. We applied extraction, transformation, and loading (ETL) techniques, as well as exploratory data analysis (EDA) to identify relevant patterns, trends, and correlations.
 
-Durante el proceso de ETL, utilizamos diversas técnicas, como la iteración en una API para obtener datos en tiempo real y el web scraping para complementar la información de fuentes públicas. Esto nos proporcionó un conjunto de datos completo y actualizado para nuestros análisis.
+During the ETL process, we used various techniques, such as iterating through an API to obtain real-time data and web scraping to complement information from public sources. This provided us with a comprehensive and up-to-date dataset for our analyses.
 
-Además, desarrollamos un dashboard interactivo utilizando Power BI para presentar los resultados. Este dashboard ofrece visualizaciones claras y concisas, facilitando la comprensión de los patrones, tendencias y correlaciones entre los sismos y las ventas de seguros. También aplicamos técnicas de machine learning para desarrollar modelos predictivos de la ocurrencia y la intensidad de los sismos, permitiendo a la empresa tomar medidas preventivas y ajustar sus estrategias de seguros de manera proactiva.
+Additionally, we developed an interactive dashboard using Power BI to present the results. This dashboard offers clear and concise visualizations, facilitating the understanding of patterns, trends, and correlations between earthquakes and insurance sales. We also applied machine learning techniques to develop predictive models for earthquake occurrence and intensity, enabling the company to take preventive measures and adjust their insurance strategies proactively.
 
-Estamos entusiasmados por compartir los resultados de nuestro análisis a través de este dashboard y esperamos que sea una herramienta valiosa para la empresa, ayudándoles a tomar decisiones fundamentadas y ofrecer servicios de seguro de calidad a sus clientes.
+We are excited to share the results of our analysis through this dashboard and hope it becomes a valuable tool for the company, helping them make informed decisions and provide quality insurance services to their clients.
 
-[Video explicativo](https://youtu.be/6GYkmYvxhkw)
+[Video](https://youtu.be/6GYkmYvxhkw)
 
 
-## `Estructura del repositorio`
+## `Repository Structure:`
 
-- [README.md](./README.md) : Archivo principal con información detallada del proyecto.
+- [README.md](./README.md) : Main file with all info about the project.
 
-- [Datasets](./Datasets) : Contiene los data sets utilizados en el proyecto.
+- [Datasets](./Datasets) : This folder contains all datasets used in this project.
 
-- [Datasets_csv](./Datasets_csv) : Contiene los data sets utilizados en el proyecto pero en formato CSV.
+- [Datasets_csv](./Datasets_csv) : This folder contains all datasets used in this project in CSV format.
 
-- [ML](./ML) : Carpeta que contiene todos los elementos para el desarrollo del modelo de Machine Learning.
+- [ML](./ML) : Folder that contains all assets for the Machine Learning model.
 
-- [driver](./driver) : Contiene el driver para realizar el Web Scrapping
+- [driver](./driver) :Contains driver to use Web Scrapping.
 
-- [imgs](./imgs) : Contiene las imágenes del proyecto.
+- [imgs](./imgs) : Contains all images.
 
-- [Diagrama de Gantt](./DiagramaGanttAlertasSismicas.xlsx) : Contiene el diagrama de Gantt que muestra la trayectoria del proyecto.
+- [Gantt diagram](./DiagramaGanttAlertasSismicas.xlsx) : Contains Gantt's diagram that shows prpject trajectory.
 
-- [ETL](./ETL.ipynb) : Notebook de python que contiene todo el código para la extracción, transformación y carga de los datos.
+- [ETL](./ETL.ipynb) : Python Notebook that contains all Extraction, Transformation and Load (ETL) process.
 
-- [EDA](./EDA.ipynb) : Notebook de python que contiene todo el código para el análisis exploratorio de datos.
+- [EDA](./EDA.ipynb) : Python Notebook that contains all Exploratory Data Analysis (EDA).
 
-## `Ciclo de vida del dato` 
+## `Data Life Cycle` 
 
 <p align="center">
 <img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/diagrama%20ciclo%20de%20dato.jpeg"  alt="Final">
 </p>
 
-## `Diagrama entidad-relación` 
+## `Entity-Relation diagram` 
 
 <p align="center">
   <img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/Diagrama%20ER.svg" width="1000" height="400">
@@ -73,7 +73,7 @@ Estamos entusiasmados por compartir los resultados de nuestro análisis a travé
 
 
 
-## `Diagrama de flujo` 
+## `Flowchart` 
 
 <p align="center">
 <img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/31db1805ab784cdcc2b9a5c4bc3f9fe2QhQnD9gQr9oyACnz-0.png" >
@@ -85,62 +85,62 @@ Estamos entusiasmados por compartir los resultados de nuestro análisis a travé
 
 ---
 
-## `Data Engineer` 
-El equipo de Data Engineer se encargó de llevar a cabo todo el proceso de Extracción, Transformación y Carga (ETL) de los datos. Inicialmente, se identificaron las fuentes de datos necesarias, las cuales incluían una API, páginas web, archivos Excel y JSON. Una vez que se obtuvo acceso a estas fuentes, se procedió a la extracción de los datos.
+## `Data Engineering` 
+The Data Engineer team was responsible for carrying out the entire process of Extraction, Transformation, and Loading (ETL) of the data. Initially, the necessary data sources were identified, including an API, web pages, Excel files, and JSON. Once access to these sources was obtained, the data extraction process began.
 
-La extracción de datos se llevó a cabo principalmente utilizando Python como la herramienta principal. Se desarrolló un notebook de Python completamente documentado y explicado, el cual detalla los pasos y la lógica detrás de cada extracción. Se utilizaron diversas técnicas en esta etapa, como la iteración a través de una API, el web scraping en varias páginas y la combinación de los datos, así como la lectura de archivos Excel y JSON. Cada uno de estos procesos se describe paso a paso en el correspondiente notebook. Durante el web scraping, el equipo se enfrentó a algunos desafíos, pero gracias al trabajo en equipo, se lograron resolver y cumplir con los objetivos establecidos.
+Data extraction was primarily performed using Python as the main tool. A fully documented and explained Python notebook was developed, detailing the steps and logic behind each extraction. Various techniques were used in this stage, such as iterating through an API, web scraping on multiple pages and data merging, as well as reading Excel and JSON files. Each of these processes is described step by step in the corresponding notebook. During web scraping, the team encountered some challenges, but through teamwork, they were resolved, and the established objectives were met.
 
-Una vez que se obtuvieron todas las tablas de datos, se realizó un Análisis Exploratorio de Datos (EDA, por sus siglas en inglés) con el objetivo de identificar patrones, tendencias y correlaciones relevantes. Este análisis se llevó a cabo utilizando Python como herramienta principal, lo que permitió examinar más detalladamente cada tabla de la base de datos.
+Once all the data tables were obtained, an Exploratory Data Analysis (EDA) was conducted to identify relevant patterns, trends, and correlations. This analysis was carried out using Python as the main tool, allowing for a more detailed examination of each table in the database.
 
-El EDA proporcionó una visión más profunda de los datos, revelando información valiosa sobre las características y distribución de los datos en cada tabla. Mediante técnicas de visualización y estadísticas descriptivas, se lograron identificar patrones emergentes, tendencias significativas y posibles relaciones entre las variables.
+The EDA provided a deeper understanding of the data, revealing valuable information about the characteristics and distribution of the data in each table. Through visualization techniques and descriptive statistics, emerging patterns, significant trends, and possible relationships between variables were identified.
 
-Este proceso de exploración brindó al equipo una comprensión más sólida de la naturaleza de los datos, lo que ayudó a tomar decisiones fundamentadas en el posterior análisis y modelado de datos. A continuación, se aplicaron una serie de transformaciones para asegurar la calidad de los mismos. Estas transformaciones incluyeron la estandarización y normalización de las tablas, la eliminación de columnas que no aportaban valor, la agregación de columnas de identificación y la extracción de tablas dimensionales para mejorar la estructura general de los datos.
+This exploratory process provided the team with a solid understanding of the nature of the data, which helped in making informed decisions in subsequent data analysis and modeling. A series of transformations were then applied to ensure data quality. These transformations included standardizing and normalizing the tables, removing columns that did not add value, aggregating identification columns, and extracting dimensional tables to improve the overall structure of the data.
 
-Finalmente, se exportaron los 33 archivos resultantes en dos formatos: JSON, para su posterior procesamiento, y CSV, para facilitar el trabajo en la nube y permitir un manejo más sencillo de los datos.
+Finally, the resulting 33 files were exported in two formats: JSON for further processing and CSV to facilitate cloud work and enable easier data handling.
 
-Además, se configuró la infraestructura en Google Cloud Platform (GCP), integrando el código de transformación en el entorno y garantizando la correcta ejecución del proceso ETL. El resultado fue un flujo de datos automatizado y eficiente, con los datos transformados y cargados en el data warehouse de BigQuery, listos para ser analizados posteriormente por el equipo de Data Analytics.
+Additionally, the infrastructure was configured in Google Cloud Platform (GCP), integrating the transformation code into the environment and ensuring the proper execution of the ETL process. The result was an automated and efficient data flow, with the transformed data loaded into BigQuery's data warehouse, ready to be analyzed by the Data Analytics team.
 
 ---
 
 ## `Data Analytics` 
 
-El proceso de selección de los KPIs se basó inicialmente en 5 indicadores clave, pero después de varias correcciones, se redujo a 4 KPIs. Estos KPIs se centraron en los siguientes aspectos:
 
-+ Aumento de las pólizas de inmuebles.
-+ Aumento de las pólizas de vida.
-+ Aumento de participantes en simulacros.
-+ Reducción de fatalidades en eventos sísmicos.
+The selection process for the KPIs initially started with 5 key indicators but was later refined to 4 KPIs after several iterations. These KPIs focused on the following aspects:
 
-Los KPIs relacionados con las pólizas de inmuebles y vida resultaron especialmente útiles, ya que se obtuvo información de alta calidad para medir su desempeño. En el caso de los KPIs de simulacros y fatalidades, se requirió utilizar técnicas de web scraping para recopilar datos relevantes.
++Increase in property insurance policies.
++Increase in life insurance policies.
++Increase in participants in drills/simulations.
++Reduction in fatalities in seismic events.
 
-El desarrollo y la explicación de estos KPIs se orientaron a los intereses de una empresa aseguradora, con el objetivo de encontrar formas de aumentar los ingresos y reducir las pérdidas. Además, se prestó atención a aspectos visuales, como una paleta de colores agradable a la vista, un posicionamiento adecuado de los gráficos y una clara definición de los títulos, con el fin de que todo el dashboard fuera fácilmente comprensible a simple vista.
+The KPIs related to property and life insurance policies proved to be particularly useful as high-quality information was available to measure their performance. For the drill/simulation and fatalities KPIs, web scraping techniques were employed to gather relevant data.
 
-El KPI de fatalidades resultó ser de vital importancia para reducir las pérdidas por reclamos de muerte en seguros de vida. Se observó una correlación negativa entre el aumento de pólizas y la disminución de fatalidades. Además, el KPI de aumento de participantes en simulacros desempeñó un papel fundamental, ya que contribuyó a reducir las fatalidades en caso de sismos. Esta disminución en las fatalidades resultó en una reducción de los pagos de reclamos por muerte asociados a eventos sísmicos
+The development and explanation of these KPIs were aligned with the interests of an insurance company, aiming to find ways to increase revenue and reduce losses. Attention was also given to visual aspects, such as a visually pleasing color palette, proper positioning of charts, and clear definition of titles, ensuring that the entire dashboard was easily understandable at a glance.
 
-El análisis del KPI de inmuebles para una empresa de seguros es prometedor, ya que permite determinar la frecuencia y ubicación de los sismos, así como identificar las áreas que necesitan adquirir seguros. El gobierno de Japón incentiva la adquisición de seguros para viviendas con resistencia sísmica. Se encontraron oportunidades para ofrecer pólizas en áreas con alta frecuencia de sismos pero baja adquisición de seguros.
+The fatalities KPI proved to be of vital importance in reducing claims losses for life insurance. A negative correlation was observed between the increase in policies and the decrease in fatalities. Additionally, the drill/simulation participation KPI played a crucial role in contributing to the reduction of fatalities in the event of earthquakes. This decrease in fatalities resulted in a reduction in death claims payments associated with seismic events.
 
-En cuanto a las pólizas de vida, se observó que en promedio hay tres personas cubiertas por cada póliza, lo que indica un enfoque familiar en lugar de individual. Se recomienda ofrecer pólizas familiares y considerar coberturas para visitas ambulatorias, ya que son los reclamos más frecuentes.
+The analysis of the property insurance KPI for an insurance company is promising as it allows determining the frequency and location of earthquakes, as well as identifying areas that need insurance coverage. The Japanese government encourages the acquisition of insurance for earthquake-resistant homes. Opportunities were found to offer policies in areas with a high frequency of earthquakes but low insurance acquisition.
 
-A pesar de la pandemia, el sector de seguros había experimentado un crecimiento considerable en la adquisición de pólizas de inmuebles y vida. Esto representa una cobertura del 83% en relación a la población de Japón.
+Regarding life insurance policies, it was observed that on average, three people are covered by each policy, indicating a family-oriented approach rather than an individual one. Offering family policies and considering coverage for outpatient visits, which are the most frequent claims, is recommended.
 
-En resumen, el análisis de los KPIs permite identificar las áreas de riesgo sísmico y los enfoques de pólizas que se deben ofrecer. Además, se recomienda enfocarse en pólizas familiares y considerar coberturas para visitas ambulatorias en las pólizas de vida. A pesar de la pandemia, el sector de seguros había experimentado un crecimiento sólido en la adquisición de pólizas.
+Despite the pandemic, the insurance sector had experienced significant growth in the acquisition of property and life insurance policies. This represents coverage of 83% in relation to the population of Japan.
+
+In summary, the analysis of the KPIs allows for the identification of seismic risk areas and the insurance approaches that should be offered. Additionally, a focus on family policies and considering coverage for outpatient visits in life insurance policies is recommended. Despite the pandemic, the insurance sector had solid growth in the acquisition of policies.
 
 ---
 
 ## `Machine Learning` 
 
-Se ha implementado un modelo de machine learning utilizando el algoritmo K-means. El proceso comienza con un análisis exploratorio de los datos, donde se estudian las variables relevantes como la profundidad, magnitud y amplitud de ondas sísmicas. A través de técnicas de visualización, se identifican patrones y tendencias en los datos.
+A machine learning model has been implemented using the K-means algorithm. The process begins with an exploratory analysis of the data, where relevant variables such as depth, magnitude, and seismic wave amplitude are studied. Through visualization techniques, patterns and trends in the data are identified.
 
-Luego, se lleva a cabo una evaluación de los datos utilizando dos métodos: el Codo de Jambu (Elbow) y el índice de silueta (Silhouette). Estos métodos permiten determinar el número óptimo de clusters para el modelo de K-means y evaluar la calidad del agrupamiento obtenido. Se comparan los resultados con la elección inicial de 3 clusters para validar la robustez del modelo.
+Next, data evaluation is conducted using two methods: the Elbow method and the Silhouette index. These methods help determine the optimal number of clusters for the K-means model and evaluate the quality of the resulting clustering. The results are compared with the initial choice of 3 clusters to validate the robustness of the model.
 
-Una vez definido el número de clusters, se aplica el algoritmo K-means a los datos y se entrena el modelo. Para visualizar los resultados de manera gráfica, se utiliza la técnica de reducción de dimensionalidad llamada PCA, que proyecta los datos en un espacio bidimensional. Esto permite representar los clusters en un gráfico 2D y visualizar la distribución de los sismos según su peligrosidad.
+Once the number of clusters is defined, the K-means algorithm is applied to the data and the model is trained. To visualize the results in a graphical manner, the dimensionality reduction technique called Principal Component Analysis (PCA) is used. This projects the data into a two-dimensional space, allowing the clusters to be represented on a 2D graph and visualizing the distribution of earthquakes according to their hazard level.
 
-Finalmente, el modelo se lleva a producción mediante la implementación de una interfaz de usuario utilizando Streamlit. Los usuarios pueden interactuar con la interfaz y proporcionar las características de un sismo (profundidad, magnitud y amplitud de ondas sísmicas) a través de sliders. El modelo aplicado en tiempo real proporciona una predicción sobre la peligrosidad del sismo, indicando si es de baja, media o alta peligrosidad.
+Finally, the model is put into production by implementing a user interface using Streamlit. Users can interact with the interface and provide the characteristics of an earthquake (depth, magnitude, and seismic wave amplitude) through sliders. The real-time applied model provides a prediction of the earthquake's hazard level, indicating whether it is of low, medium, or high hazard.
 
 ---
 
 ## `Dashboard` 
-A continuación se adjuntan las imágenes del respectivo dashboard
 ---
 
 + KPIs
@@ -151,7 +151,7 @@ A continuación se adjuntan las imágenes del respectivo dashboard
 
 ---
 
-+ Aumento de pólizas de inmuebles
++ Increase in property insurance policies
 <p align="center">
 <img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/pag%201.png"  alt="Final">
 </p>
@@ -159,7 +159,7 @@ A continuación se adjuntan las imágenes del respectivo dashboard
 
 ---
 
-+ Aumento de pólizas de vida
++ Increase in life insurance policies
 <p align="center">
 <img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/pag2.png"  alt="Final">
 </p>
@@ -167,14 +167,14 @@ A continuación se adjuntan las imágenes del respectivo dashboard
 
 ---
 
-+ Aumento de participación en simulacros
++ Increase in participation in drills/simulations
 <p align="center">
 <img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/pag3.png"  alt="Final">
 </p>
 
 ---
 
-+ Disminución de fatalidades
++ Reduction in fatalities
 <p align="center">
 <img src="https://github.com/ReneRamosTrvn/alertas_sismicas/blob/main/imgs/pag4.png"  alt="Final">
 </p>
@@ -182,8 +182,8 @@ A continuación se adjuntan las imágenes del respectivo dashboard
 
 ---
 
-##### Nota: Para acceder a todos los archivos, incluido el dashboard, se puede ingresar al siguiente enlace de drive : 
-( [Link al drive](https://drive.google.com/drive/folders/1i0_Jir644PRO1j7tAGKSgVmxJ0_9C6KL) )
+##### Note: To access all the files, including the dashboard, you can go to the following Google Drive link: 
+( [Link](https://drive.google.com/drive/folders/1i0_Jir644PRO1j7tAGKSgVmxJ0_9C6KL) )
 
 ---
 
